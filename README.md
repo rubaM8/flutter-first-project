@@ -31,6 +31,11 @@ I'm working hard to add these awesome features:
 *   💾 **Saving Data:**  So your reminders stay put, even when you close the app!
 *   ✨ **More Features:**  Maybe some cool map integrations or packing lists?  The sky's the limit!
 
+## Watch How It Works! ▶️
+
+A quick video tutorial to get you started.
+[here!!](https://youtube.com/shorts/bekd2XC07ks?feature=share)
+
 ## Thanks for checking it out! 🙏
 
 Happy travels! ✈️
