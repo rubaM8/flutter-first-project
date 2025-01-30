@@ -82,6 +82,12 @@ class _yourNameState extends State<yourName> {
                         color: Color.fromARGB(255, 212, 51, 51),
                         width: 2.0,
                       ),
+                    ),
+                    focusedErrorBorder: const UnderlineInputBorder(
+                      borderSide: BorderSide(
+                        color: Color.fromARGB(255, 212, 51, 51),
+                        width: 2.0,
+                      ),
                     )),
               ),
             ),
@@ -103,7 +109,10 @@ class _yourNameState extends State<yourName> {
                   if (name.isEmpty) {
                     ScaffoldMessenger.of(context).showSnackBar(
                       const SnackBar(
-                        content: Text('Please enter your name'),
+                        content: Text(
+                          'Please enter your name',
+                          style: TextStyle(color: Colors.red, fontSize: 16),
+                        ),
                       ),
                     );
                     return;

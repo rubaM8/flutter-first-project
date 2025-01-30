@@ -111,17 +111,4 @@ List<ToursModel> tourData = [
     location: "Jordan",
     remarks: "hope it goes easy..",
   ),
-  ToursModel(
-    dateRange: "2023 Feb 5 - 2024 Jun 1",
-    tourAbout: "AI course",
-    location: "Irland",
-    remarks: "enjoy as much as I can!",
-  ),
-  ToursModel(
-    dateRange: "2023 Feb 5 - 2024 Jun 1",
-    tourAbout: "anything",
-    location: "anythin",
-    remarks:
-        ";lgreognreoanbtihypgknbgfm;nbgmytodhrnbvmchgfkdls;zxc,vmbnhjtrieoslz,xcihypgknbgfm;nbgmytodhrnbvmchgfkdls;zxc,vmbnhjtrieoslz,xcmvbnhgjrieowalz,xcvmngjfrekwalz,xc",
-  ),
 ];

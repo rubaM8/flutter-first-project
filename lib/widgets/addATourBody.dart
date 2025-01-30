@@ -115,7 +115,7 @@ class _AddATourBodyState extends State<AddATourBody> {
                 ),
                 const SizedBox(height: 30),
                 Container(
-                  height: 350,
+                  height: 400,
                   width: double.infinity,
                   decoration: BoxDecoration(
                     color: const Color.fromRGBO(193, 203, 156, 100),
@@ -177,9 +177,9 @@ class _AddATourBodyState extends State<AddATourBody> {
                     ),
                   ),
                 ),
-                const SizedBox(height: 24),
+                const SizedBox(height: 32),
                 SizedBox(
-                    height: 190,
+                    height: 200,
                     width: double.infinity,
                     child: SingleChildScrollView(
                       child: Column(
